@@ -21,7 +21,7 @@ I specialize in:
 - End-to-end Machine Learning Pipelines  
 - FastAPI-based AI Model Deployment  
 - Generative AI + Transformers  
-- Automation-focused AI Systems  
+- Automation focused AI Systems  
 
 ---
 
