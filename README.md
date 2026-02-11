@@ -30,9 +30,9 @@ I specialize in:
 ### **AI Automation Engineer — Cloud Rexpo (PVT) LTD**  
 📅 **January 2026 – Present**
 
-- Developing AI automation systems for real-world business workflows  
-- Building scalable AI-powered APIs and agent-based solutions  
-- Working on production-grade deployment and monitoring  
+- Developing AI automation systems for real world business workflows  
+- Building scalable AI powered APIs and agent based solutions  
+- Working on production grade deployment and monitoring  
 
 ---
 
@@ -72,7 +72,7 @@ I specialize in:
 ## 🛠️ Technical Skills
 
 **Languages:** Python, HTML, CSS, MySQL  
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn  
+**Frameworks:** PyTorch, TensorFlow, Scikit learn  
 **AI Tools:** FastAPI, Hugging Face, Pandas, NumPy  
 **DevOps Tools:** Git, Docker, Server Deployment  
 
