@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m an **AI Automation Engineer** and Machine Learning practitioner with hands-on experience in building and deploying **ML models**, **Generative AI systems**, and **Agentic AI workflows**.
+I’m an **AI Automation Engineer** and Machine Learning practitioner with hands on experience in building and deploying **ML models**, **Generative AI systems**, and **Agentic AI workflows**.
 
 I specialize in:
 
@@ -63,8 +63,8 @@ I specialize in:
 - Developed a healthcare communication system using:
   - Python + FastAPI + MySQL  
   - HTML + CSS Frontend  
-- Enabled real-time monitoring and request management  
-- Designed user-friendly interface for hospital staff & patients  
+- Enabled real time monitoring and request management  
+- Designed user friendly interface for hospital staff & patients  
 - Optimized for reliability and scalability  
 
 ---
