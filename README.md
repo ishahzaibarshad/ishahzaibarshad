@@ -43,7 +43,7 @@ I specialize in:
 - Built and optimized ML models using **CNN & RNN architectures**  
 - Implemented full pipelines: preprocessing → feature engineering → evaluation  
 - Deployed production-ready ML models with monitoring  
-- Created high-performance APIs using **FastAPI**  
+- Created high performance APIs using **FastAPI**  
 - Worked with cloud infrastructure and server deployment strategies  
 - Utilized Python ML stack: Scikit learn, Pandas, NumPy  
 
