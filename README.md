@@ -42,7 +42,7 @@ I specialize in:
 - Developed **Generative AI and Agentic AI systems** for advanced applications  
 - Built and optimized ML models using **CNN & RNN architectures**  
 - Implemented full pipelines: preprocessing → feature engineering → evaluation  
-- Deployed production-ready ML models with monitoring  
+- Deployed production ready ML models with monitoring  
 - Created high performance APIs using **FastAPI**  
 - Worked with cloud infrastructure and server deployment strategies  
 - Utilized Python ML stack: Scikit learn, Pandas, NumPy  
@@ -52,7 +52,7 @@ I specialize in:
 ## 🧠 Featured Projects
 
 ### 🎙️ Synthetic Speech Detection (Final Year Project)
-- Fine-tuned **Wav2Vec2 Transformer** for AI-generated voice detection  
+- Fine-tuned **Wav2Vec2 Transformer** for AI generated voice detection  
 - Achieved **99% accuracy** through optimization  
 - Deployed as a scalable FastAPI inference service  
 - Built complete audio preprocessing + validation pipeline  
