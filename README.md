@@ -14,14 +14,16 @@
 
 ## 🚀 About Me
 
-I’m an **AI Automation Engineer** and Machine Learning practitioner with hands on experience in building and deploying **ML models**, **Generative AI systems**, and **Agentic AI workflows**.
+I’m an **AI Automation Engineer** and **Machine Learning practitioner** with hands-on experience in building **LLM applications**, **RAG systems**, **Voice AI agents**, **workflow automations**, and **FastAPI-based AI backends**.
 
 I specialize in:
 
 - End-to-end Machine Learning Pipelines  
+- LLM Applications and RAG Systems  
+- Voice AI and Conversational AI Agents  
 - FastAPI-based AI Model Deployment  
-- Generative AI + Transformers  
-- Automation focused AI Systems  
+- Workflow Automation using n8n and Make.com  
+- Generative AI, Transformers, and Vector Search  
 
 ---
 
@@ -51,24 +53,65 @@ I specialize in:
 
 ## 🧠 Featured Projects
 
-### 🎙️ Synthetic Speech Detection (Final Year Project)
-- Fine-tuned **Wav2Vec2 Transformer** for AI generated voice detection  
-- Achieved **99% accuracy** through optimization  
-- Deployed as a scalable FastAPI inference service  
-- Built complete audio preprocessing + validation pipeline  
+### 🏥 AIAura | AI-Powered Healthcare Appointment Scheduler
+**Tech Stack:** React · Base44 · n8n · OpenAI/Gemini · Recharts
+
+- Built a full-stack AI healthcare scheduling platform for symptom-based appointment booking
+- Developed conversational AI symptom triage to route patients to the correct specialist
+- Implemented emergency keyword detection before AI calls to block unsafe booking flows
+- Built role-based Patient and Admin views with protected routes and session handling
+- Created real-time admin dashboard for appointments, doctor slots, emergency logs, and conversation history
+- Integrated n8n as the backend AI orchestration workflow with fallback AI support
+
+---
+
+### 🎙️ Synthetic Speech Detection | Final Year Project
+**Tech Stack:** Python · Wav2Vec2 · Hugging Face · FastAPI · Audio Processing
+
+- Fine-tuned Wav2Vec2 Transformer for AI-generated voice detection
+- Achieved 99% accuracy through model optimization and evaluation
+- Deployed the model as a FastAPI inference service
+- Built complete audio preprocessing and validation pipeline
+
+---
+
+### 🤖 AI Customer Support Chatbot with RAG
+**Tech Stack:** Python · LangChain · FAISS · LLMs · FastAPI
+
+- Built a RAG-based AI chatbot for context-aware customer support
+- Implemented document chunking, embeddings, semantic search, and retrieval pipeline
+- Used FAISS vector search to retrieve relevant context before LLM response generation
+- Designed backend APIs for chatbot interaction and response handling
+
+---
+
+### 🗣️ Voice AI Appointment Agent
+**Tech Stack:** FastAPI · Telephony APIs · Webhooks · AI Workflows
+
+- Developed a voice-based appointment automation agent
+- Integrated telephony APIs and webhook-based event handling
+- Built backend logic for appointment flow, user intent handling, and workflow automation
+- Designed the system for inbound and outbound voice interactions
+
+---
+
+### ⚙️ Make.com Lead Automation Workflow
+**Tech Stack:** Make.com · Webhooks · Google Sheets · Email Automation · APIs
+
+- Built automated lead management workflows using Make.com
+- Connected forms, Google Sheets, email automation, and webhook-based API integrations
+- Automated lead capture, tracking, and follow-up processes
+- Reduced manual handling by creating structured workflow automation
 
 ---
 
 ### 🏥 Nurse Call System
-- Developed a healthcare communication system using:
-  - Python + FastAPI + MySQL  
-  - HTML + CSS Frontend  
-- Enabled real time monitoring and request management  
-- Designed user friendly interface for hospital staff & patients  
-- Optimized for reliability and scalability  
+**Tech Stack:** Python · FastAPI · MySQL · HTML · CSS
 
----
-
+- Developed a healthcare communication system for hospital staff and patients
+- Enabled real-time request monitoring and patient communication management
+- Built FastAPI backend with MySQL database integration
+- Designed a simple user-friendly interface for healthcare usage
 ## 🛠️ Technical Skills
 
 **Languages:** Python, HTML, CSS, MySQL  
