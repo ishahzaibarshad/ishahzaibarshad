@@ -5,7 +5,7 @@
 **AI Automation Engineer | Machine Learning Engineer | LLM & RAG Developer | Voice AI Developer**
 
 📍 Rawalpindi, Pakistan  
-📧 shahzaibarshad0008@gmail.com  
+📧 engineershahzaibarshad@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shahzaib-arshad-butt/)
 
 </div>
@@ -157,7 +157,7 @@ National University of Modern Languages, Islamabad
 
 I’m open to AI Engineering, AI Automation, Machine Learning, Voice AI, and LLM/RAG opportunities.
 
-📧 shahzaibarshad0008@gmail.com  
+📧 engineershahzaibarshad@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shahzaib-arshad-butt/)
 
 ---
