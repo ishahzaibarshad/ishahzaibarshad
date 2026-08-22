@@ -3,15 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:172554,100:0891b2&text=Shahzaib%20Arshad&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Automation%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Voice%20AI%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Automation+Systems;LLM+%7C+RAG+%7C+Voice+AI+%7C+Machine+Learning;FastAPI+%7C+LangChain+%7C+LiveKit+%7C+Docker+%7C+AWS;Turning+Complex+AI+Ideas+into+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Automation+Systems;LLM+%7C+RAG+%7C+Voice+AI+%7C+Machine+Learning;FastAPI+%7C+LangChain+%7C+LiveKit+%7C+Docker+%7C+AWS;Turning+AI+Ideas+into+Production+Ready+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ishahzaibarshad&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile views"/>
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ishahzaibarshad&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views"/>
+
+ 
+
 <a href="https://github.com/ishahzaibarshad?tab=followers">
-<img src="https://img.shields.io/github/followers/ishahzaibarshad?label=Followers&style=for-the-badge&color=172554" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/ishahzaibarshad?label=FOLLOWERS&style=for-the-badge&color=172554" alt="GitHub followers"/>
 </a>
 
 <br/><br/>
@@ -19,9 +21,11 @@
 <a href="mailto:engineershahzaibarshad@gmail.com">
 <img src="https://img.shields.io/badge/Email-engineershahzaibarshad%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/shahzaib-arshad-butt/">
 <img src="https://img.shields.io/badge/LinkedIn-Shahzaib%20Arshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/ishahzaibarshad">
 <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -38,34 +42,42 @@ class ShahzaibArshad:
     role = "AI Automation Engineer"
     location = "Rawalpindi, Pakistan"
 
-    focus = [
-        "AI Automation",
+    expertise = [
+        "Artificial Intelligence",
+        "Machine Learning",
         "LLM Applications",
         "RAG Systems",
         "Voice AI",
         "Conversational AI",
-        "Machine Learning",
-        "FastAPI Backends",
-        "AI Deployment"
+        "AI Automation",
+        "FastAPI Development"
     ]
 
-    currently_building = [
-        "Production Voice AI Agents",
-        "LLM + RAG Applications",
-        "AI Workflow Automation",
-        "Telephony + Conversational AI"
+    technologies = [
+        "Python",
+        "LangChain",
+        "FastAPI",
+        "LiveKit",
+        "Docker",
+        "AWS",
+        "FAISS",
+        "pgvector",
+        "n8n",
+        "Make.com"
     ]
 
-    mindset = "Build → Deploy → Measure → Improve"
+    philosophy = "Build. Deploy. Improve."
 ```
 
-I build **production-focused AI systems** that combine machine learning, large language models, retrieval systems, automation, and real-time voice interaction.
+I am an **AI Automation Engineer and Machine Learning practitioner** focused on building intelligent systems that solve real business problems.
 
-My strongest areas are **LLM/RAG applications, Voice AI, AI automation, FastAPI backends, and deployment of AI systems on cloud infrastructure**.
+My work spans **LLM applications, RAG systems, Voice AI, conversational agents, machine learning pipelines, backend development, workflow automation, and cloud deployment**.
+
+I enjoy transforming ideas into reliable and scalable AI products.
 
 ---
 
-## ⚡ What I Build
+## ⚡ Areas of Expertise
 
 <table>
 <tr>
@@ -73,26 +85,27 @@ My strongest areas are **LLM/RAG applications, Voice AI, AI automation, FastAPI 
 
 ### 🤖 Generative AI
 
-* LLM applications
-* RAG pipelines
-* Prompt engineering
-* Semantic search
-* Embeddings
-* Vector databases
-* AI copilots
+LLM Applications
+RAG Systems
+Prompt Engineering
+Embeddings
+Semantic Search
+Vector Databases
+AI Assistants
 
 </td>
+
 <td width="50%">
 
 ### 🎙️ Voice AI
 
-* Real-time voice agents
-* Speech-to-text
-* Text-to-speech
-* LiveKit agents
-* Conversational workflows
-* Telephony integrations
-* Inbound & outbound calling
+Real Time Voice Agents
+Speech Recognition
+Text to Speech
+Conversational AI
+LiveKit
+Voice Workflows
+Outbound Calling Agents
 
 </td>
 </tr>
@@ -102,25 +115,27 @@ My strongest areas are **LLM/RAG applications, Voice AI, AI automation, FastAPI 
 
 ### ⚙️ AI Automation
 
-* n8n workflows
-* Make.com automation
-* Webhooks
-* API integrations
-* Lead automation
-* Business process automation
+n8n
+Make.com
+Webhooks
+API Integrations
+Business Automation
+Lead Automation
+Workflow Design
 
 </td>
+
 <td width="50%">
 
 ### ☁️ AI Engineering
 
-* FastAPI
-* Docker
-* AWS
-* REST APIs
-* Model deployment
-* Backend architecture
-* Production systems
+FastAPI
+Docker
+AWS
+REST APIs
+Model Deployment
+Backend Development
+Production AI Systems
 
 </td>
 </tr>
@@ -132,11 +147,13 @@ My strongest areas are **LLM/RAG applications, Voice AI, AI automation, FastAPI 
 
 <div align="center">
 
-### Languages
+### Programming
 
 <img src="https://skillicons.dev/icons?i=python,html,css,mysql" />
 
-### AI / Machine Learning
+<br/><br/>
+
+### Artificial Intelligence and Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
@@ -147,24 +164,34 @@ My strongest areas are **LLM/RAG applications, Voice AI, AI automation, FastAPI 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-### Backend & APIs
+<br/><br/>
+
+### Backend and Development
 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
 
-### Cloud & Infrastructure
+<br/><br/>
+
+### Cloud and Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 
-### Databases & Vector Search
+<br/><br/>
+
+### Databases and Vector Search
 
 <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/pgvector-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<br/><br/>
+
 ### Automation
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Make.com-6D28D9?style=for-the-badge"/>
+
+<br/><br/>
 
 ### Voice AI
 
@@ -178,115 +205,119 @@ My strongest areas are **LLM/RAG applications, Voice AI, AI automation, FastAPI 
 
 # 🚀 Featured Projects
 
-## 🎙️ LiveKit Outbound Voice AI Agent
+## 🏥 AIAura AI Healthcare Appointment Scheduler
 
-> Real-time AI voice agent designed for outbound call-center automation.
+**Technology:** React · n8n · OpenAI · Gemini · Recharts · Base44
 
-**Architecture**
-
-```text
-Dialer
-  ↓
-SIP
-  ↓
-LiveKit SIP
-  ↓
-LiveKit Room
-  ↓
-AI Voice Agent
-  ↓
-STT → LLM → TTS
-```
-
-**Tech:** Python · LiveKit · Cartesia · Groq · SIP · Docker · AWS
+A full stack AI healthcare scheduling platform designed to automate appointment management and patient interactions.
 
 ### Highlights
 
-* Real-time conversational voice interaction
-* AI-powered outbound calling
-* Speech recognition and synthesis pipeline
-* Agent dispatch through LiveKit
-* Browser-based voice testing
-* SIP / telephony integration architecture
-* Dockerized infrastructure
-
----
-
-## 🏥 AIAura — AI Healthcare Appointment Scheduler
-
-**Tech:** React · n8n · OpenAI/Gemini · Recharts · Base44
-
-* AI symptom-based appointment routing
-* Emergency keyword detection
-* Patient and admin dashboards
-* Doctor scheduling
-* Appointment management
-* Conversation history
-* Automated AI workflow orchestration
+• AI powered symptom assessment and specialist routing
+• Emergency keyword detection
+• Patient and administrator dashboards
+• Doctor scheduling and appointment management
+• Conversation history and monitoring
+• AI workflow orchestration with n8n
 
 ---
 
 ## 🗣️ Synthetic Speech Detection
 
-**Tech:** Python · Wav2Vec2 · Hugging Face · FastAPI · Audio Processing
+**Technology:** Python · Wav2Vec2 · Hugging Face · FastAPI · Audio Processing
 
-* Fine-tuned Wav2Vec2 Transformer
-* AI-generated voice detection
-* Complete audio preprocessing pipeline
-* FastAPI inference service
-* Achieved **99% accuracy** during project evaluation
+An AI system designed to identify synthetic and AI generated speech using transformer based audio classification.
 
----
+### Highlights
 
-## 🤖 AI Customer Support RAG
-
-**Tech:** Python · LangChain · FAISS · FastAPI · LLMs
-
-```text
-Documents
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-Vector Search
-    ↓
-Relevant Context
-    ↓
-LLM
-    ↓
-Answer
-```
-
-Built a context-aware customer-support chatbot using retrieval augmented generation and semantic document search.
+• Fine tuned Wav2Vec2 Transformer
+• Complete audio preprocessing pipeline
+• AI generated voice detection
+• FastAPI inference service
+• Achieved 99 percent accuracy during project evaluation
 
 ---
 
-## 🗣️ Voice AI Appointment Agent
+## 🤖 AI Customer Support RAG System
 
-**Tech:** FastAPI · Telephony APIs · Webhooks · AI Automation
+**Technology:** Python · LangChain · FAISS · FastAPI · LLMs
 
-* Voice-based appointment automation
-* Intent detection
-* Webhook event processing
-* Inbound and outbound call workflows
-* API-based backend orchestration
+A retrieval augmented generation system designed to provide context aware answers from internal knowledge sources.
+
+### Highlights
+
+• Document processing and chunking
+• Embedding generation
+• Semantic similarity search
+• Context retrieval
+• LLM based response generation
+• FastAPI backend integration
+
+---
+
+## 🎙️ Voice AI Appointment Agent
+
+**Technology:** FastAPI · Telephony APIs · Webhooks · AI Automation
+
+An AI powered voice solution designed to automate appointment conversations and customer interactions.
+
+### Highlights
+
+• Voice based appointment handling
+• Intent recognition
+• Telephony integration
+• Webhook event processing
+• Inbound and outbound calling
+• Automated conversational workflows
+
+---
+
+## 📞 Outbound Calling Agent
+
+**Technology:** Python · LiveKit · Voice AI · Speech Recognition · Text to Speech
+
+A conversational AI agent designed for automated outbound calling and real time customer interaction.
+
+### Highlights
+
+• Real time voice conversations
+• AI powered customer interaction
+• Speech recognition
+• Natural language responses
+• Text to speech generation
+• Call center automation
 
 ---
 
 ## ⚙️ Make.com Lead Automation
 
-**Tech:** Make.com · Webhooks · Google Sheets · APIs · Email Automation
+**Technology:** Make.com · Webhooks · Google Sheets · APIs · Email Automation
 
-Automated lead capture, tracking, processing, notification, and follow-up workflows.
+An automated lead processing system that connects business forms, spreadsheets, APIs, and communication workflows.
+
+### Highlights
+
+• Automated lead capture
+• Lead tracking and processing
+• Email notifications
+• API integrations
+• Automated follow up workflows
 
 ---
 
 ## 🏥 Nurse Call System
 
-**Tech:** Python · FastAPI · MySQL · HTML · CSS
+**Technology:** Python · FastAPI · MySQL · HTML · CSS
 
-Healthcare communication platform for handling patient requests and staff notifications through a centralized backend system.
+A healthcare communication platform designed to improve coordination between patients and healthcare staff.
+
+### Highlights
+
+• Real time request management
+• Patient communication
+• FastAPI backend
+• MySQL integration
+• Simple user focused interface
 
 ---
 
@@ -294,31 +325,31 @@ Healthcare communication platform for handling patient requests and staff notifi
 
 ### 🟦 AI Automation Engineer
 
-**Cloud Rexpo (PVT) LTD**
+**Cloud Rexpo PVT LTD**
 
-`Jan 2026 – Feb 2026`
+`January 2026 to February 2026`
 
-* Built Voice AI and chatbot automation systems
-* Developed RAG pipelines with LangChain, FAISS and pgvector
-* Created FastAPI services for AI applications
-* Built Dockerized AI deployments
-* Worked with APIs, webhooks and automation platforms
-* Deployed cloud-based AI services
+• Built Voice AI and chatbot automation systems
+• Developed RAG pipelines using LangChain, FAISS and pgvector
+• Created FastAPI services for AI applications
+• Built Docker based AI deployments
+• Integrated APIs, webhooks and workflow automation
+• Worked with cloud based AI infrastructure
 
 ---
 
 ### 🟪 Junior Machine Learning Engineer
 
-**IDRAK AI (PVT) LTD**
+**IDRAK AI PVT LTD**
 
-`Dec 2024 – Jan 2026`
+`December 2024 to January 2026`
 
-* Developed Generative AI applications
-* Built machine-learning pipelines
-* Worked with CNN, RNN and Transformer architectures
-* Developed FastAPI model-serving APIs
-* Worked with Scikit-learn, Pandas and NumPy
-* Built and evaluated AI models
+• Developed Generative AI applications
+• Built machine learning pipelines
+• Worked with CNN, RNN and Transformer models
+• Developed FastAPI services for AI model deployment
+• Worked with Scikit learn, Pandas and NumPy
+• Evaluated and improved machine learning models
 
 ---
 
@@ -327,11 +358,15 @@ Healthcare communication platform for handling patient requests and staff notifi
 <div align="center">
 
 <a href="https://github.com/ishahzaibarshad">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishahzaibarshad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishahzaibarshad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+
 </a>
 
 <a href="https://github.com/ishahzaibarshad">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahzaibarshad&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahzaibarshad&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+
 </a>
 
 </div>
@@ -340,7 +375,7 @@ Healthcare communication platform for handling patient requests and staff notifi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ishahzaibarshad&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ishahzaibarshad&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -350,7 +385,7 @@ Healthcare communication platform for handling patient requests and staff notifi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" alt="Contribution animation"/>
 
 </div>
 
@@ -358,20 +393,18 @@ Healthcare communication platform for handling patient requests and staff notifi
 
 # 🎯 Current Focus
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                 CURRENTLY BUILDING                      │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🎙️ Production Voice AI Agents                         │
-│  🧠 LLM + RAG Applications                              │
-│  🤖 AI Automation Systems                               │
-│  📞 Telephony + Conversational AI                      │
-│  ☁️ Cloud AI Deployment                                 │
-│  ⚡ Real-time AI Infrastructure                         │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Area                       | Focus                              |
+| -------------------------- | ---------------------------------- |
+| 🤖 Artificial Intelligence | LLM Applications and AI Automation |
+| 🧠 Generative AI           | RAG Systems and AI Assistants      |
+| 🎙️ Voice AI               | Real Time Conversational Agents    |
+| 📞 Voice Automation        | Intelligent Outbound Calling       |
+| ⚡ Backend Engineering      | FastAPI and AI APIs                |
+| ☁️ Cloud                   | Docker and AWS Deployment          |
+
+</div>
 
 ---
 
@@ -379,31 +412,31 @@ Healthcare communication platform for handling patient requests and staff notifi
 
 ### Bachelor of Software Engineering
 
-**National University of Modern Languages — Islamabad**
+**National University of Modern Languages, Islamabad**
 
-`Sept 2021 – June 2025`
+`September 2021 to June 2025`
 
 ---
 
 # 📜 Certifications
 
-* 🧠 Machine Learning Specialization — DeepLearning.AI
-* ✍️ Prompt Engineering — DeepLearning.AI
-* 🤗 Practical AI / ML Certifications — Hugging Face
+• Machine Learning Specialization from DeepLearning.AI
+• Prompt Engineering from DeepLearning.AI
+• Practical AI and Machine Learning Certifications from Hugging Face
 
 ---
 
 # 🌐 Leadership
 
-### IEEE Executive Member & Webmaster
+### IEEE Executive Member and Webmaster
 
 **IEEE Islamabad Section**
 
-`Dec 2023 – June 2025`
+`December 2023 to June 2025`
 
-* Managed IEEE student branch website
-* Maintained web infrastructure
-* Supported technical and community initiatives
+• Managed and maintained the official student branch website
+• Supported technical initiatives and digital activities
+• Contributed to technology focused community activities
 
 ---
 
@@ -429,7 +462,7 @@ Healthcare communication platform for handling patient requests and staff notifi
 
 <div align="center">
 
-### 💡 *"Building intelligent systems that turn ideas into real-world automation."*
+### 💡 Building intelligent systems that turn ideas into real world automation.
 
 <br/>
 
