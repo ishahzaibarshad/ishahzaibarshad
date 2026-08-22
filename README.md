@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:172554,100:0891b2&text=Shahzaib%20Arshad&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Automation%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Voice%20AI%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Automation+Systems;LLM+%7C+RAG+%7C+Voice+AI+%7C+Machine+Learning;FastAPI+%7C+LangChain+%7C+LiveKit+%7C+Docker+%7C+AWS;Turning+AI+Ideas+into+Production+Ready+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Automation+Systems;LLM+%7C+RAG+%7C+Voice+AI+%7C+Machine+Learning;FastAPI+%7C+LangChain+%7C+LiveKit+%7C+Docker+%7C+AWS;Turning+AI+Ideas+into+Production+Ready+Systems" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ishahzaibarshad&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ishahzaibarshad&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" alt="Profile views"/>
 
  
 
@@ -19,15 +19,15 @@
 <br/><br/>
 
 <a href="mailto:engineershahzaibarshad@gmail.com">
-<img src="https://img.shields.io/badge/Email-engineershahzaibarshad%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-engineershahzaibarshad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shahzaib-arshad-butt/">
-<img src="https://img.shields.io/badge/LinkedIn-Shahzaib%20Arshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shahzaib-arshad-butt/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-Shahzaib%20Arshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/ishahzaibarshad">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ishahzaibarshad" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-@ishahzaibarshad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -77,7 +77,7 @@ I enjoy transforming ideas into reliable and scalable AI products.
 
 ---
 
-## ⚡ Areas of Expertise
+# ⚡ Areas of Expertise
 
 <table>
 <tr>
@@ -149,13 +149,13 @@ Production AI Systems
 
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=python,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql"/>
 
 <br/><br/>
 
 ### Artificial Intelligence and Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
 <br/><br/>
 
@@ -168,13 +168,13 @@ Production AI Systems
 
 ### Backend and Development
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux"/>
 
 <br/><br/>
 
 ### Cloud and Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux"/>
 
 <br/><br/>
 
@@ -359,13 +359,13 @@ A healthcare communication platform designed to improve coordination between pat
 
 <a href="https://github.com/ishahzaibarshad">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishahzaibarshad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishahzaibarshad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats"/>
 
 </a>
 
 <a href="https://github.com/ishahzaibarshad">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahzaibarshad&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishahzaibarshad&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 
 </a>
 
@@ -375,17 +375,7 @@ A healthcare communication platform designed to improve coordination between pat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ishahzaibarshad&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" alt="Contribution animation"/>
+<img src="https://streak-stats.demolab.com?user=ishahzaibarshad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -445,15 +435,25 @@ A healthcare communication platform designed to improve coordination between pat
 <div align="center">
 
 <a href="mailto:engineershahzaibarshad@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-engineershahzaibarshad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahzaib"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shahzaib-arshad-butt/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/ishahzaibarshad">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="mailto:engineershahzaibarshad@gmail.com?subject=AI%20Engineering%20Opportunity&body=Hello%20Shahzaib%2C%0A%0AI%20would%20like%20to%20discuss%20an%20AI%20engineering%20opportunity%20with%20you.">
+<img src="https://img.shields.io/badge/CONTACT%20ME-Available%20for%20AI%20Opportunities-06B6D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact me"/>
 </a>
 
 </div>
@@ -462,10 +462,10 @@ A healthcare communication platform designed to improve coordination between pat
 
 <div align="center">
 
-### 💡 Building intelligent systems that turn ideas into real world automation.
+### 💡 Building intelligent systems that turn AI into real world automation.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:172554,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:172554,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
