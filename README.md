@@ -16,7 +16,7 @@ A small, explainable assessment project with local TF-IDF retrieval over supplie
 
 A Flask upload flow that uses a pretrained Hugging Face audio-classification model to label uploaded speech. Audio is loaded and resampled with librosa before inference. The repository does not publish an evaluation result, so no accuracy figure is claimed.
 
-### [NSOL BPO LiveKit agent](https://github.com/ishahzaibarshad/livekit_agent) · Voice AI, FastAPI, Twilio
+### [Twilio LiveKit outbound agent](https://github.com/ishahzaibarshad/twilio-livekit-outbound-agent) · Voice AI, FastAPI, Twilio
 
 A prototype repository containing a FastAPI outbound-call API, Twilio webhook and media-stream handling, and a scripted LiveKit voice agent. The repository’s run notes identify the Twilio-to-LiveKit audio bridge as unfinished work, so this is presented as a prototype rather than a verified end-to-end calling product.
 
@@ -32,7 +32,7 @@ A Python LiveKit Agents example that places an outbound SIP call and runs a voic
 
 A call-management prototype with FastAPI routes, a scripted voice-agent workflow, a Twilio integration, a dashboard, contact and call-management components, and an optional Streamlit interface. The repository’s run guide still lists the Twilio-to-LiveKit audio bridge as a remaining integration task. Its similarly named companion repository contains the same source files; I’m treating these as one portfolio project rather than two distinct implementations.
 
-### [Nurse Call System](https://github.com/ishahzaibarshad/Nurse-Call-System) · FastAPI, MySQL, WebSockets
+### [Nurse call management system](https://github.com/ishahzaibarshad/nurse-call-management-system) · FastAPI, MySQL, WebSockets
 
 A hospital monitoring system that receives L7700 device events over UDP, decodes and stores them in MySQL, sends live updates over WebSockets, and streams RTSP camera feeds to the browser as MJPEG.
 
