@@ -28,7 +28,7 @@ A deterministic voice workflow that collects age and name, checks interest, and 
 
 A Python LiveKit Agents example that places an outbound SIP call and runs a voice pipeline with Deepgram speech recognition, OpenAI language and speech services, and Silero VAD. The availability and appointment actions in the sample are placeholders rather than a connected scheduling system. The README will credit the upstream example it references.
 
-### [NSOL BPO call assistant](https://github.com/ishahzaibarshad/Lk-Agent-System) · FastAPI, LiveKit, Twilio, SQLite
+### [LiveKit and Twilio call management](https://github.com/ishahzaibarshad/livekit-twilio-call-management) · FastAPI, LiveKit, Twilio, SQLite
 
 A call-management prototype with FastAPI routes, a scripted voice-agent workflow, a Twilio integration, a dashboard, contact and call-management components, and an optional Streamlit interface. The repository’s run guide still lists the Twilio-to-LiveKit audio bridge as a remaining integration task. Its similarly named companion repository contains the same source files; I’m treating these as one portfolio project rather than two distinct implementations.
 
